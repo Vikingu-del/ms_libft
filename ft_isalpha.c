@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "libft.h"
 
 static void print_isalpha(int c)
 {
